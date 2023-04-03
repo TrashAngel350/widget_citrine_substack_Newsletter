@@ -1,2 +1,4 @@
-<iframe src="https://citrine.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:#f6f1ff;" frameborder="0" scrolling="no">
-</iframe>
+<html>
+  <iframe src="https://citrine.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:#f6f1ff;" frameborder="0" scrolling="no">
+  </iframe>
+</html>
